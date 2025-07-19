@@ -1,1 +1,2 @@
 Hello man test local repo new
+add one line
